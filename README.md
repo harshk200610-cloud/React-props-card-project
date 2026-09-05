@@ -1,16 +1,51 @@
-# React + Vite
+  # React Job Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first React.js project created to learn and practice **Props**.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A simple Job Cards UI that displays different job opportunities using reusable React components.
 
-## React Compiler
+Each card contains:
+- Company Logo
+- Company Name
+- Job Position
+- Date Posted
+- Job Type
+- Experience Level
+- Salary
+- Location
+- Apply Button
+- Save Button
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## React Concepts Used
 
-## Expanding the ESLint configuration
+- React Components
+- Props
+- Reusable Components
+- `.map()`
+- Spread Operator (`...`)
+- React `key`
+- JSX
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Lucide React
+
+## What I Learned
+
+Through this project, I learned how to create reusable components and pass dynamic data from a parent component to a child component using **Props**.
+
+## Future Improvements
+
+- Job search
+- Job filtering
+- Save jobs
+- Job details page
+- API integration
+- Responsive design<img width="1880" height="873" alt="Screenshot 2026-09-05 232113" src="https://github.com/user-attachments/assets/3f2c4b6a-0d80-4c22-b701-f85265326f62" />
